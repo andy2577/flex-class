@@ -1,0 +1,36 @@
+body {
+    max-width: 970px;
+    margin: 0 auto;
+    /* You can use 1, 2 or 4 values, if 2 it's one for top and bottom and second left and right*/
+}
+
+header {
+    background-color: blue;
+}
+
+nav {
+    float: left;
+    width: 20%;
+    background-color: red;
+}
+
+section {
+    float: left;
+    width: 60%;
+    padding: 0 5px;
+    box-sizing: border-box;
+    background-color: yellow;
+}
+
+aside {
+    float: left;
+    width: 20%;
+    padding: 0 5px;
+    box-sizing: border-box;
+    background-color: green;
+}
+
+footer {
+    clear: both;
+    background-color: blue;
+}
